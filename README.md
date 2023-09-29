@@ -1,7 +1,5 @@
 # Chess Web App
 
-![Chess Web App](https://placekitten.com/800/400)
-
 This is a web application that allows users to play chess on an interactive chessboard. It is built using Svelte, Chess.js, and Svelte Chessground, making it a lightweight and responsive chessboard for both beginners and experienced chess players. The project also demonstrates usage of various technologies and techniques in Svelte development.
 
 ## Features
